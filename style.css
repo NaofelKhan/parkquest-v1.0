@@ -307,12 +307,10 @@ h6 {
 	width: fit-content;
 	filter: drop-shadow(.5px 1px 5px grey)
 }
-
-.con{
-	display: flex;
-	justify-content: center;
-	gap: 20px;
+.steps{
+	width: 20%;
 }
+
 .icon-border span {
 	display: block;
 	position: relative;
